@@ -1,0 +1,62 @@
+[
+    {
+        "active":true,
+        "title":"Scholarship for BA, Delhi University",
+        "description":"Scholarship applications are open for batch 2023-24",
+        "type":"Government",
+        "course":"BA",
+        "percentage":15,
+        "amount":75000,
+        "university":"DU",
+        "link":"https://himanshu-ts.netlify.app/",
+        "state":"NewDelhi"
+    },
+    {
+        "active":true,
+        "title":"Scholarship for MBA, Thapar University",
+        "description":"Scholarship applications are open for TU batch 2023-24",
+        "type":"Private",
+        "course":"MBA",
+        "percentage":30,
+        "amount":50000,
+        "university":"Thapar University",
+        "link":"https://himanshu-ts.netlify.app/",
+        "state":"Panjab"
+    },
+    {
+        "active":false,
+        "title":"Scholarship for B.com, IGDTU Open University",
+        "description":"Scholarship applications are open for IGDTU batch 2023-24",
+        "type":"Semi-Government",
+        "course":"B.com",
+        "percentage":50,
+        "amount":50000,
+        "university":"IGDTU",
+        "link":"https://himanshu-ts.netlify.app/",
+        "state":"Delhi"
+    },
+    {
+        "active":true,
+        "title":"Scholarship for B.tech, AKTU University",
+        "description":"Scholarship applications are open for AKTU batch 2023-24",
+        "type":"Government",
+        "course":"B.tech",
+        "percentage":40,
+        "amount":62000,
+        "university":"AKTU",
+        "link":"https://himanshu-ts.netlify.app/",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "active":true,
+        "title":"Scholarship for LLB, Lucknow University",
+        "description":"Scholarship applications are open for LLB, Lucknow University batch 2023-24",
+        "type":"Private",
+        "course":"LLB",
+        "percentage":55,
+        "amount":85000,
+        "university":"LU",
+        "link":"https://himanshu-ts.netlify.app/",
+        "state":"Uttar Pradesh"
+    }
+]
